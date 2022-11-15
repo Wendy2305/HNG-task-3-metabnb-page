@@ -1,0 +1,35 @@
+/* ===================== Footer ====================*/
+.footer-body{
+    background-color: #1D1D1E;
+    padding: 3.93rem 13rem 2.31rem 7.06rem;  
+}
+
+.entire-footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    /* margin: 63px 208px 37px 113px; */
+    color: #FFFFFF;
+}
+
+.entire-footer p:hover{
+    color:#A02279;
+}
+
+
+
+.footer-sm-logo{
+    margin-top: 96.32px;
+    padding-right: 41px;
+    margin-bottom: 46.13px;
+}
+
+.entire-footer  h5{
+    font-size: 18px;
+    line-height: 22px;
+}
+
+.entire-footer  p{
+    font-size: 14px;
+    line-height: 35px;
+}
