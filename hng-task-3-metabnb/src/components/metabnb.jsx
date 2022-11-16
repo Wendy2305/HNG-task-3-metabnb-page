@@ -3,7 +3,14 @@ import three_nfts from '../../src/images/nft_pages.png'
 
 const Metabnb = () => {
   return (
-    <div className="MetaBNB">
+
+    <div className="MetaBNB" style={{
+      backgroundColor:"#A02279",
+      color: "#FFFFFF",
+      width: "100%",
+      height: "48.38rem",
+      display: "flex",
+    }}>
         <div className="Metabnb-text">
                 <h2 id="Metabnb-header">Metabnb NFTs</h2>
                 <p id="Metabnb-paragraph">Discover our NFT gift cards collection. Loyal <br/>

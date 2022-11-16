@@ -9,11 +9,13 @@ import TokensPage from './components/TokensPage';
 
 import './styles/footer.css'
 import './styles/homepage.css'
+import Navibarr from './components/Navbar';
 
 
 function App() {
   return (
     <div className="App">
+        <Navibarr/>
         <Hero/>
         <TokensPage/>
         <NftPage/>
