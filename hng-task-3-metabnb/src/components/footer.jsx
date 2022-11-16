@@ -5,7 +5,7 @@ import facebook_logo from '../../src/images/facebook_logo.png'
 import twitter_logo from '../../src/images/twitter_logo.png'
 import trademark from '../../src/images/trademark.png'
 
-import '../../src/styling/footer.css'
+import '../../src/styles/footer.css'
 
 const Footer = () => {
   return (

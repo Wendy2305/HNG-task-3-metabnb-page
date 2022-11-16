@@ -9,15 +9,18 @@ import image6 from '../../src/images/NFTS/Image_6.png'
 import image7 from '../../src/images/NFTS/Image_7.png'
 import image8 from '../../src/images/NFTS/Image_8.png'
 
+
 const NftPage = () => {
   return (
     <div className="nft-page">
-        <h2 id="NFT-header">Inspiration for your next Adventure</h2>
+        <h2 className="NFT-header">Inspiration for your next Adventure</h2>
             <div className='nft-rows'>
+          
                 <img className="nft-image" src={image1} alt="an NFT" />
                 <img className="nft-image" src={image2} alt="an NFT" />
                 <img className="nft-image" src={image3} alt="an NFT" />
                 <img className="nft-image" src={image4} alt="an NFT" />
+            
 
                 <img className="nft-image" src={image5} alt="an NFT" />
                 <img className="nft-image" src={image6} alt="an NFT" />

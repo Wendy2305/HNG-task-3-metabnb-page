@@ -6,33 +6,68 @@ body{
 }
 
 /* ===================== Hero-Page ===================*/
+
 .Heropage{
     display: flex;
     background-color: #FFFFFF;
     width: 100%;
+    padding-top: 100px;
 }
 
+.Hero-story{
+    font-family: 'Red Rose';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35px;
+}
+.all-hero-text{
+    margin-left: 100px;
+}
 #Hero-imgs{
+    padding-left: 50px;
+    margin-bottom: 100px;
+    
     width: 35%;
     height: 35%
 }
 
-h1{
-    font-weight: 400;
+#hero-header{
+    font-weight: 700;
     font-size: 3.5rem;
 }
  
 .Hero-text{
     color:#A02279;
+
 }
-.nft-page{
-    background-color: #FFFFFF;
+
+.hero-input{
+    background: rgba(247, 247, 247, 0.1);
+    border: 1px solid #A3A3A3;
+    border-radius: 8px 0px 0px 8px;
+    height: 54px;
+    width: 390px;
+    padding-left: 10px;
+    font-family: 'Red Rose', cursive;
+}
+
+#hero-btn{
+    background: linear-gradient(90deg, #A02279 11.45%, #A02279 11.46%);
+    border-radius: 0px 8px 8px 0px;
+    height: 59px;
+    width: 230px;
+    font-family: 'Red Rose', cursive;
+    color:#FFFFFF;
+    border: none;
 }
 
 /* ===================== Tokens-Page ====================*/
 .tokens-page{
-    display: flex;  
-    width: 46.25rem;
+    display: flex;
+    flex-direction: row;  
+    padding: 10px 100px;
+    width: 71.8rem;
     height: 70px;
     background: linear-gradient(90deg, #A02279 11.45%, #A02279 11.45%);
     justify-content: space-between; 
@@ -40,27 +75,11 @@ h1{
 
 /* ===================== NFTs-Page ====================*/
 
-.nft-image{
-   padding-bottom: 30px;
-   padding-top: 50px;
+.nft-page{
+    background-color: #FFFFFF;
 }
 
-.nft-rows{
-    margin-left: 5.413vw;
-    margin-right: 5.412vw;
-    margin-bottom: 1.8vw;
-    
-    /* justify-content: space-between; */
-    margin-left: 5%;
-    margin-right: 5%;    
-} 
-#NFT-header{
-    font-size:48px;
-    margin: auto;
-    padding-top: 58px;
-    padding-bottom: 43px;
-    text-align: center;
-}
+/* ===================== METAbnb-Page ====================*/
 .MetaBNB{
     color: #FFFFFF;
     background-color:#A02279;

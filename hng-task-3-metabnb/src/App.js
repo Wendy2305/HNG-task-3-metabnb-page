@@ -7,8 +7,8 @@ import Footer from './components/footer'
 import TokensPage from './components/TokensPage';
 // import HomePage from './components/homepage';
 
-import './styling/footer.css'
-import './styling/homepage.css'
+import './styles/footer.css'
+import './styles/homepage.css'
 
 
 function App() {
