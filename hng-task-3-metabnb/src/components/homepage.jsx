@@ -1,24 +1,23 @@
 import React from 'react'
 
+import '../../src/styles/homepage.css'
+import '../../src/styles/footer.css'
 
-
-
-
-
-import '../../src/styling/homepage.css'
-import '../../src/styling/footer.css'
 import Hero from './hero'
+import TokensPage from './TokensPage'
+import NftPage from './NftPage'
+import Metabnb from './metabnb'
 
 
 
 const HomePage = () => {
   return (
     <div>
-        <div >
-            <Hero/>
-        </div>
+      <Hero/>
+      <TokensPage/>
+      <NftPage/>
+      <Metabnb/>
 
-        
     </div>
   )
 }

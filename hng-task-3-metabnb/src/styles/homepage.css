@@ -127,3 +127,59 @@ body{
     font-size: 16px;
     border: none;
 }
+
+
+/* ===================== NaviBarr ====================*/
+  
+a{
+    text-decoration: none;
+  }
+
+  .class-links{
+    font-family: 'Red Rose';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    color: #434343;
+    margin-right: 80px;
+    cursor: pointer;
+  }
+
+  .nav-logo{
+    padding-top: 10px;
+    margin-left: 35px;
+  }
+  .nav-button{
+    background: linear-gradient(90deg, #A02279 11.45%, #A02279 11.45%);
+    border-radius: 10px;
+    height: 48px;
+    width: 140px;
+    color: #FFFFFF;
+    font-family: 'Red Rose';
+    border: none;
+    margin-left:60px ;
+    margin-bottom: 10px;
+    
+  }
+  .text-links:hover {
+    color:#A02279;
+  }
+  .entire-nav-bar{
+    width: 100%;
+    margin-bottom: 10px;
+    box-shadow: rgb(67 67 67  25%) 0px 3px 3px;
+    position: fixed;
+    background-color: #FFFFFF;
+  }
+  
+  /* ===================== Places ====================*/
+  .nft-categories{
+    display: flex;
+    flex-direction: row;
+  }
+
+
+
+
+ 
