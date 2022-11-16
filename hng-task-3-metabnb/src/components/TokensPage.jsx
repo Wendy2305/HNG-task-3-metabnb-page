@@ -7,9 +7,9 @@ import MBToken from '../../src/images/mbtoken.svg'
 const TokensPage = () => {
   return (
     <div className="tokens-page">
-            <img src ={MBToken} alt="MBToken logo"/>
-            <img src ={MetaMask} alt="Metamask logo"/>
-            <img src ={OpenSea} alt="opensea logo"/>
+            <img className="tokens-logo" src ={MBToken} alt="MBToken logo"/>
+            <img className="tokens-logo"src ={MetaMask} alt="Metamask logo"/>
+            <img className="tokens-logo"src ={OpenSea} alt="opensea logo"/>
         </div>
   )
 }

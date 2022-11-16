@@ -17,7 +17,7 @@ import NftPage from './components/NftPage';
 
 function App() {
   return (
-    <div className="App">
+    <div >
     <BrowserRouter>
     <Navibarr/>
     <Routes>

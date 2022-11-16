@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1c6bd171.css",
-    "main.js": "/static/js/main.908dc601.js",
+    "main.css": "/static/css/main.a4e2e955.css",
+    "main.js": "/static/js/main.701d57f7.js",
     "static/js/787.da069268.chunk.js": "/static/js/787.da069268.chunk.js",
     "static/media/nft_pages.png": "/static/media/nft_pages.2aa177be147f93172c89.png",
     "static/media/hero_images.png": "/static/media/hero_images.a190ae670b57a933e488.png",
@@ -25,12 +25,12 @@
     "static/media/mbtoken.svg": "/static/media/mbtoken.6a2427bee120a728c62147161737f2d5.svg",
     "static/media/White_metabnb_logo.svg": "/static/media/White_metabnb_logo.69a97a8cf7498387c85734f13405b3b3.svg",
     "index.html": "/index.html",
-    "main.1c6bd171.css.map": "/static/css/main.1c6bd171.css.map",
-    "main.908dc601.js.map": "/static/js/main.908dc601.js.map",
+    "main.a4e2e955.css.map": "/static/css/main.a4e2e955.css.map",
+    "main.701d57f7.js.map": "/static/js/main.701d57f7.js.map",
     "787.da069268.chunk.js.map": "/static/js/787.da069268.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c6bd171.css",
-    "static/js/main.908dc601.js"
+    "static/css/main.a4e2e955.css",
+    "static/js/main.701d57f7.js"
   ]
 }
